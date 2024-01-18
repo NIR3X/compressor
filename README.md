@@ -7,7 +7,7 @@ This Go package provides a Go implementation of a symmetric compression algorith
 To use this package, you can import it into your Go project:
 
 ```bash
-go get github.com/NIR3X/compressor
+go get -u github.com/NIR3X/compressor
 ```
 
 ## Usage
