@@ -48,7 +48,8 @@ func main() {
 In this example, the Compressor package compresses the input data, and then decompresses it, demonstrating the basic usage of the compression and decompression functionalities. Adjust the package integration as needed for your specific use case.
 
 ## License
-[![GNU AGPLv3 Image](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.html)  
+
+[![GNU AGPLv3 Image](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 This program is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
